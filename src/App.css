@@ -37,6 +37,15 @@ h1 {
   width: fit-content;
 }
 
+p{
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  width: fit-content;
+  padding: 2px;
+  border-radius: 10px;
+}
+
 /* Search Bar */
 
 form {

@@ -13,6 +13,7 @@ const Movie = ({ movie: { imdbID, Year, Type, Poster, Title } }) => {
 
       <div>
         <span>{Type}</span>
+        <p>{Year}</p>
         <h3>{Title}</h3> 
       </div>
     </div>

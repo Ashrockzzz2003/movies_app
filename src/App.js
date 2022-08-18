@@ -24,7 +24,7 @@ const App = () => {
   }
 
   useEffect( () => {
-    serachMovies('Avengers')
+    serachMovies('Avengers');
   },[])
   
   return (
